@@ -9,3 +9,14 @@ This is a simple, static website for a fictional cake shop called Tasty Cakes Sr
 👉 Image Integration: Includes a visually appealing image of a cake to attract users.
 
 👉 Footer: A fixed footer at the bottom of the page provides copyright information and adds a professional touch.
+
+## Key Styling Details
+Background Color: A light blue background (#e6f3ff) creates a soft and inviting look.
+
+Tagline Styling: The tagline is styled with a purple color (blueviolet) and italic font for emphasis.
+
+Image Positioning: The cake image is floated to the right for better visual balance.
+
+Price List Table: A clean and simple table design with proper padding and alignment.
+
+Fixed Footer: The footer is fixed at the bottom of the page with an orange background and centered text.
